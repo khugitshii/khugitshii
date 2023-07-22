@@ -6,15 +6,13 @@
 
 <!---------------------------------- Gif ------------------------------------------>
 
-<div align="right">
-    <img src="./assets/coder.gif">
-</div>
+<img align="right" src="./assets/coder.gif" width="400" alt="coder_girl_gif">
 
 <!-------------------------------- Short Bio -------------------------------------->
-<div align="left">
-    - Co-founder at [Medictry](https://github.com/Medictry)
-    - I have been practicing designing for over a year now. I know Adobe XD, Adobe Illustrator, After Effects, Canva, etc.
-    - I am also into Languages like, HTML CSS, JavaScript, React.Js, learning and practicing.
-    - I have learned Digital Marketing, IT Project Management, Content and Product Designing and Branding, and Finanace Management related stuffs.
-    - Learning, Content, Writing for Technicalities.
-</div>
+<ul align="left">
+    <li> Co-founder at [Medictry](https://github.com/Medictry)</li>
+    <li>I have been practicing designing for over a year now. I know Adobe XD, Adobe Illustrator, After Effects, Canva, etc.</li>
+    <li>I am also into Languages like, HTML CSS, JavaScript, React.Js, learning and practicing.</li>
+    <li>I have learned Digital Marketing, IT Project Management, Content and Product Designing and Branding, and Finanace Management related stuffs.</li>
+    <li>Learning, Content, Writing for Technicalities.</li>
+</ul>
