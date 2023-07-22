@@ -6,7 +6,7 @@
 
 <!---------------------------------- Gif ------------------------------------------>
 
-<img align="right" src="./assets/coder.gif" width="300" height="200" alt="coder_girl_gif">
+<img align="right" src="./assets/coder.gif" width="300" height="220" alt="coder_girl_gif">
 
 <!-------------------------------- Short Bio -------------------------------------->
 <ul align="left">
