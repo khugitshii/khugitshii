@@ -18,6 +18,8 @@
     <li>🤓 Learning, Content, Writing for Technicalities.</li>
 </ul>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 <!---------------------------------Frameworks, Languages & Other Tools ------------------------------------->        
         
 ## ⚛️ Frameworks, Languages & Other Tools        
@@ -39,3 +41,13 @@
         <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribble" />
         <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="adobe photoshop" />
 </div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<!------------------------------------------------ Github Stats ------------------------------------------------>
+
+## 🌟 Github Stats
+
+<!---------------------------------------------- 3D Contribution Graph ----------------------------------------->
+
+![](./profile-3d-contrib/profile-gitblock.svg)
