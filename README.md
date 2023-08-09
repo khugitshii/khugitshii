@@ -1,6 +1,6 @@
 ## Hey! Everyone.
 
-### I am a Delhitte, a student, a freelancer, currently pursuing BCA from Amity University. Here's a Freelancer, interested in Front End Development, looking forward to contribute, explore, influence, even motivate  and get the best out of everything!
+### I am a Delhitte, a student, a freelancer. Here's a Freelancer, interested in Front End Development, looking forward to contribute, explore, influence, even motivate  and get the best out of everything!
 
 ##
 
