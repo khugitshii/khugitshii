@@ -1,6 +1,6 @@
 ## Hey! Everyone.
 
-### I am a Delhitte, a student, a freelancer. Here's a Freelancer, interested in Front End Development, looking forward to contribute, explore, influence, even motivate  and get the best out of everything!
+### I am a versatile individual, juggling my roles as a dedicated student, and an ambitious individual looking for Internships. I'm not just here to contribute and explore, but to influence, motivate, and extract the utmost potential from every opportunity.
 
 ##
 
