@@ -12,10 +12,10 @@
 
 <ul align="left">
     <li>🏢 Co-founder at <a href="https://github.com/Medictry">MedicTry</a></li>
-    <li>✨ I have been practicing designing for over a year now. <br> I know Adobe XD, Adobe Illustrator, After Effects, Canva, etc.</li>
-    <li>💻 I am also into Languages like, HTML CSS, JavaScript, <br> React.Js, learning and practicing.</li>
-    <li>🍁 I have learned Digital Marketing, IT Project Management, <br> Content and Product Designing and <br> Branding, and Finanace Management related stuffs.</li>
-    <li>🤓 Learning, Content, Writing for Technicalities.</li>
+    <li>✨ I've dedicated over a year to honing my design skills, becoming proficient in tools such as Adobe Illustrator, Figma, Canva, and Photoshop.</li>
+    <li>💻 In addition to my design expertise, I have a keen interest in programming languages like HTML, CSS, Java, JavaScript, React.js, and Python, which I'm continuously learning and applying.</li>
+    <li>🍁 My knowledge spans beyond design, encompassing areas such as <br> Digital Marketing, <br> IT Project Management, <br> Content and Product Design, <br> Branding, and <br> Financial Management.</li>
+    <li>🤓 I'm an inquisitive individual driven by a deep passion for continuous learning and a natural talent for crafting technical content, conducting research, managing projects, and much more.</li>
 </ul>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
