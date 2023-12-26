@@ -1,6 +1,6 @@
-## Hey! Everyone.
+## Salutations, everyone!
 
-### I am a versatile individual, juggling my roles as a dedicated student, and an ambitious individual looking for Internships. I'm not just here to contribute and explore, but to influence, motivate, and extract the utmost potential from every opportunity.
+### I am a versatile individual, juggling my roles as a dedicated student, and an ambitious individual. I'm not just here to contribute and explore, but to influence, motivate, and extract the utmost potential from every opportunity.
 
 ##
 
