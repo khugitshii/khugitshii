@@ -11,7 +11,6 @@
 <!-------------------------------- Short Bio -------------------------------------->
 
 <ul align="left">
-    <li>🏢 Co-founder at <a href="https://github.com/Medictry">MedicTry</a></li>
     <li>✨ I've dedicated over a year to honing my design skills, becoming proficient in tools such as Adobe Illustrator, Figma, Canva, and Photoshop.</li>
     <li>💻 In addition to my design expertise, I have a keen interest in programming languages like HTML, CSS, Java, JavaScript, React.js, and Python, which I'm continuously learning and applying.</li>
     <li>🍁 My knowledge spans beyond design, encompassing areas such as <br> Digital Marketing, <br> IT Project Management, <br> Content and Product Design, <br> Branding, and <br> Financial Management.</li>
@@ -39,7 +38,6 @@
         <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
         <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="behance" />
         <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribble" />
-        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="adobe photoshop" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
