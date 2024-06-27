@@ -3,8 +3,9 @@
 <!-------------------------------- Short Bio -------------------------------------->
 
 ### About Me
+
+#### My passion lies in leveraging online tools and technology to infuse creativity into my work, continually advancing my skills and expertise. Here's a glimpse into my journey:
 <ul align="left">
-    <li>My passion lies in leveraging online tools and technology to infuse creativity into my work, continually advancing my skills and expertise. Here's a glimpse into my journey:</li>
     <li>🧡 Design Enthusiast: I have dedicated myself to refining my design abilities, focusing on UX and mastering design software such as Adobe XD, Figma, Canva, and various online studios and tools.</li>
     <li>💻 Tech-Savvy: In addition to my design expertise, I have practiced programming languages like HTML, CSS, JavaScript, React.js, and Java. I'm continuously learning and applying these skills to enhance my work.</li>
     <li>🍁 Diverse Knowledge: My expertise extends beyond design, encompassing Digital Marketing, IT Project Management, Content Writing and Designing, Research Writing, AI, and Blogging.</li>
