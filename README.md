@@ -62,8 +62,19 @@ My ultimate goal is to employ my unique skill set, innovative methodologies, and
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
 </div>
 
+###
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+<h3 align="left">🔥 My Stats :</h3>
 
-<!------------------------------------------------ Github Stats ------------------------------------------------>
-<!------------------------------------------------ contributions ----------------------------------------------->
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khugitshii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=khugitshii&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/khugitshii/khugitshii/output/snake.svg" alt="Snake animation" />
+
+###
