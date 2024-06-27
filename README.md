@@ -1,15 +1,24 @@
-## Salutations, everyone!
+# Salutations, everyone!
 
 <!-------------------------------- Short Bio -------------------------------------->
 
+## About Me
 <ul align="left">
-    <li>✨ My passion lies in utilizing online tools and technology to infuse creativity into my work and continually advance my skills and expertise. </li>
-    <li>🧡 I've devoted myself to refining my design abilities, and UX, and becoming proficient in design software like Adobe XD, Figma, Canva, and various online studios and tools. </li>
-    <li>💻 In addition to my design practice and knowledge, especially UI and Graphic design, I have practiced programming languages like HTML, CSS, JavaScript, React.js, and Java, which I'm continuously learning and applying, which I'm continuously learning and applying.</li>
-    <li>🍁 My knowledge spans beyond design, encompassing areas such as Digital Marketing, IT Project Management, Content Writing and Designing, research Writing, AI, and Blogging.</li>
-    <li>🤓 Currently, I'm completely diving into the world of UX, specifically UI, and Frontend. I'm actively developing my skills in editing platforms and design studios. My focus is on crafting engaging website interfaces and designs that truly grab users' attention and connect with them.
-My present focus lies in exploring in-depth Product Design, innovating new product concepts, translating them into designs, and working to contribute to diverse communities and teams. My attributes of patience, loyalty, diligence, and proactivity highlight how I tackle any task. My ultimate aspiration is to employ my unique skill set, innovative methodologies, and visionary mindset to make a meaningful and impactful contribution to a forward-thinking organization.</li>
+    <li>My passion lies in leveraging online tools and technology to infuse creativity into my work, continually advancing my skills and expertise. Here's a glimpse into my journey:</li>
+    <li>🧡 Design Enthusiast: I have dedicated myself to refining my design abilities, focusing on UX and mastering design software such as Adobe XD, Figma, Canva, and various online studios and tools.</li>
+    <li>💻 Tech-Savvy: In addition to my design expertise, I have practiced programming languages like HTML, CSS, JavaScript, React.js, and Java. I'm continuously learning and applying these skills to enhance my work.</li>
+    <li>🍁 Diverse Knowledge: My expertise extends beyond design, encompassing Digital Marketing, IT Project Management, Content Writing and Designing, Research Writing, AI, and Blogging.</li>
+    <li>🤓 Current Focus: I'm deeply immersed in the world of UX, with a specific focus on UI and Frontend development. I'm actively honing my skills in editing platforms and design studios, crafting engaging website interfaces and designs that captivate and connect with users. My present focus lies in exploring in-depth Product Design, innovating new product concepts, translating them into designs, and contributing to diverse communities and teams.</li>
 </ul>
+
+## Attributes
+- Patience: I approach tasks with a calm and steady demeanor, ensuring thorough and thoughtful completion.
+- Loyalty: I am committed to my work and the teams I collaborate with, always striving to deliver my best.
+- Diligence: I am meticulous and detail-oriented, ensuring high-quality results in everything I do.
+- Proactivity: I take initiative and anticipate needs, constantly seeking ways to improve and innovate.
+
+## Aspiration
+My ultimate goal is to employ my unique skill set, innovative methodologies, and visionary mindset to make a meaningful and impactful contribution to a forward-thinking organization. I am excited about the possibilities that lie ahead and am eager to bring my creativity and expertise to new and challenging projects.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
